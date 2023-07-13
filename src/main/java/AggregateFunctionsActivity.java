@@ -44,6 +44,8 @@ public class AggregateFunctionsActivity {
  *   |5     |'Adam'          |'Jones'        |55050.50  |
  *
  */
+
+ 
     public static void main(String [] args){
         
     }
